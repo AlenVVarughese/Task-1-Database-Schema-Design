@@ -1,0 +1,24 @@
+Normalization → Process of organizing data to reduce redundancy and improve integrity.
+Primary Key vs Foreign Key
+Primary Key uniquely identifies records.
+Foreign Key creates relationships between tables.
+Constraints
+Rules enforced on data.
+Examples: PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE.
+Surrogate Key
+Artificial key with no business meaning.
+Example: author_id.
+Avoid Data Redundancy
+Use normalization and separate related data into tables.
+ER Diagram
+Visual representation of entities and relationships.
+Relationship Types
+One-to-One
+One-to-Many
+Many-to-Many
+AUTO_INCREMENT
+Automatically generates sequential values.
+Default Storage Engine in MySQL
+InnoDB
+Composite Key
+Key formed by combining multiple columns.
